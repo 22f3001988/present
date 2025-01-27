@@ -1,6 +1,6 @@
 # present
 
-A tool to create powerful yet simple presentations from plain-text source files.
+A great tool to create powerful yet simple presentations from plain-text source files. 
 
 ---
 
